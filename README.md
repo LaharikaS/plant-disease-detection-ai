@@ -70,7 +70,7 @@ Custom Dataset Support: Can be trained on any labeled plant dataset (e.g., Plant
 
 **📦 Installation**
 
-git clone https://github.com/ShantanuSingh08/Plant-Disease-Detection-AI
+git clone https://github.com/LaharikaS/plant-disease-detection-ai
 
 cd Plant-Disease-Detection-AI
 
